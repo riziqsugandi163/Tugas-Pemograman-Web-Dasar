@@ -1,0 +1,86 @@
+.footer {
+  margin-top: 30px;
+}
+
+.footer__container-utama {
+  background-color: rgb(10,44,95);
+  color: white;
+  width: 100%;
+  padding: 54px;
+}
+
+.footer__container-utama-2 {
+  background-color: rgb(10,44,95);
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__size-img-telkomsel {
+  width: 200px;
+}
+
+.footer__box-1-child {
+  display: flex;
+  gap: 24px;
+  margin-bottom: 36px;
+}
+
+.footer__title {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.footer__subtitle {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.footer__icon-download a img {
+  width: 86px;
+}
+
+
+.footer__box-2-child ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.footer__box-2-child ul a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+}
+
+.footer__box-icon-sosmed {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.box-icon {
+  margin: 30px 0;
+  border-bottom: .3px solid white;
+  padding-bottom: 20px;
+}
+
+.footer__box-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer__line {
+  border-width: 0.3px;
+  margin-top: 30px;
+  opacity: .5;
+}
+
+.footer__copyright {
+  text-align: center;
+  margin-top: 30px;
+}
+
+
